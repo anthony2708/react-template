@@ -4,6 +4,7 @@ A repository to help you get started with React and deploy your app to GitHub Pa
 
 ## Getting Started
 
+0. Fork this repository.
 1. Edit your code in this repository.
 2. Edit the `homepage` property in `package.json` to match your repository name and your username.
 3. Push to Github with `git push`.
