@@ -6,10 +6,10 @@ A repository to help you get started with React and deploy your app to GitHub Pa
 
 0. Fork this repository.
 1. Edit your code in this repository.
-2. Edit the `homepage` property in `package.json` to match your repository name and your username.
+2. Edit the `homepage` property in `package.json` to match your repository name and your username. E.g. `https://<your-username>.github.io` or `https://<your-username>.github.io/<your-repo-name>/`
 3. Push to Github with `git push`.
 4. Go to **Settings > Code and Automation > Pages > Source** and change the branch to `gh-pages`.
-5. Wait a few minutes and your changes will be live at `https://<your-username>.github.io/<your-repo-name>/`
+5. Wait a few minutes and your changes will be live at `https://<your-username>.github.io/<your-repo-name>/`or `https://<your-username>.github.io/`
 
 ## License
 
